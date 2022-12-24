@@ -1,0 +1,47 @@
+const data2=(req,res)=>{
+    res.send([
+      {
+        id:1,
+        img:"https://w7.pngwing.com/pngs/667/150/png-transparent-gagra-choli-lehenga-wedding-dress-dress-purple-party-dress-magenta-thumbnail.png",
+      },
+      {
+        id:2,
+        img:"https://banner2.cleanpng.com/20180817/yr/kisspng-t-shirt-sleeve-crop-top-clothing-girls-womens-cropped-baggy-oversize-5b7768a2be43e5.7145508015345522267793.jpg",
+      },
+      {
+        id:3,
+        img:"https://www.kindpng.com/picc/m/206-2062474_crop-top-shirts-for-girls-png-transparent-png.png",
+      },
+      {
+        id:4,
+        img:"https://freepngimg.com/thumb/dress/31618-6-dress-photo-thumb.png",
+      },
+      {
+        id:5,
+        img:"https://e7.pngegg.com/pngimages/682/42/png-clipart-shirt-clothing-sleeve-outerwear-blouse-stripes-photography-fashion-thumbnail.png",
+      },
+      {
+        id:6,
+        img:"https://w7.pngwing.com/pngs/964/674/png-transparent-bra-crop-top-sleeveless-shirt-tanktop-tank-top-white-swimsuit-top-magenta-thumbnail.png",
+      },
+      {
+        id:7,
+        img:"https://w7.pngwing.com/pngs/82/394/png-transparent-clothing-t-shirt-crop-top-sleeveless-shirt-glitter-material-woman-top-tshirt-thumbnail.png",
+      },
+      {
+        id:8,
+        img:"https://w7.pngwing.com/pngs/133/663/png-transparent-t-shirt-tube-top-sleeveless-shirt-crop-top-t-shirt-white-fashion-black-thumbnail.png",
+      },
+      {
+        id:9,
+        img:"https://w1.pngwing.com/pngs/970/384/png-transparent-tshirt-green-blouse-top-sleeve-collar-clothing-crop-top-shoe-thumbnail.png",
+      },
+      {
+        id:10,
+        img:"https://w7.pngwing.com/pngs/439/852/png-transparent-sweater-cable-knitting-sleeve-crop-top-t-shirt-fashion-woolen-top-thumbnail.png",
+      },
+        ]);
+      }
+module.exports.apicontroller2=data2;
+
+

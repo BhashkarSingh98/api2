@@ -1,0 +1,39 @@
+const data3=(req,res)=>{
+    res.send([
+      {
+        id:1,
+        img:"https://w7.pngwing.com/pngs/442/497/png-transparent-t-shirt-hoodie-carter-s-clothing-baby-clothes-baby-clothes-tartan-hoodie-thumbnail.png",
+      },
+      {
+        id:2,
+        img:"https://p.kindpng.com/picc/s/390-3906788_babybjorn-long-sleeve-bib-purple-hd-png-download.png",
+      },
+      {
+        id:3,
+        img:"https://p.kindpng.com/picc/s/274-2743481_summer-dress-png-kids-dress-design-hd-png.png",
+      },
+      {
+        id:4,
+        img:"https://p.kindpng.com/picc/s/390-3907044_active-shirt-hd-png-download.png",
+      },
+      {
+        id:5,
+        img:"https://p.kindpng.com/picc/s/130-1303214_kids-clothes-png-day-dress-transparent-png.png",
+      },
+      {
+        id:6,
+        img:"https://p.kindpng.com/picc/s/573-5737796_toddler-girl-two-piece-outfit-infant-girl-two.png",
+      },
+      {
+        id:7,
+        img:"https://p.kindpng.com/picc/s/250-2500889_kids-blank-pajama-sets-cotton-blank-children-pajama.png",
+      },
+      {
+        id:8,
+        img:"https://p.kindpng.com/picc/s/697-6975716_home-clothing-kids-shirts-tanks-kids-purple-cheer.png",
+      },
+        ]);
+      }
+module.exports.apicontroller3=data3;
+
+
